@@ -40,6 +40,5 @@ CREATE TABLE IF NOT EXISTS Fines (
     PaidStatus BOOLEAN DEFAULT FALSE,
     FOREIGN KEY (TransactionID) REFERENCES Transactions(TransactionID)
 );
-SELECT * FROM Books
 SET SQL_SAFE_UPDATES=0
-DELETE FROM Books
+
