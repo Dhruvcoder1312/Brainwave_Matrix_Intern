@@ -4,18 +4,26 @@
    
 Overview
 
-The Library Management System is a Python-based project that integrates with a MySQL database to efficiently manage library operations. It allows administrators to handle books, members, borrowing transactions, and fines. The system provides a streamlined solution for tracking book availability, managing member records, and handling overdue penalties.
+1.The Library Management System is a Python-based project that integrates with a MySQL database to efficiently manage library operations.
+2.It allows administrators to handle books, members, borrowing transactions, and fines.
+3.The system provides a streamlined solution for tracking book availability, managing member records, and handling overdue penalties.
 
 Key Features
-Database Integration: Uses MySQL for structured data storage and management.
-CRUD Operations: Allows Create, Read, Update, and Delete operations for books and members.
-Borrow and Return Management: Tracks borrowed books, updates availability, and calculates fines for overdue returns.
-Fines Management: Automatically calculates fines based on return delays and stores them for tracking.
-User-Friendly Menu: Intuitive menu-driven system for administrators to perform all library operations.
+--Database Integration: Uses MySQL for structured data storage and management.
+
+--CRUD Operations: Allows Create, Read, Update, and Delete operations for books and members.
+
+--Borrow and Return Management: Tracks borrowed books, updates availability, and calculates fines for overdue returns.
+
+--Fines Management: Automatically calculates fines based on return delays and stores them for tracking.
+
+--User-Friendly Menu: Intuitive menu-driven system for administrators to perform all library operations.
+
 Technologies Used
-Programming Language: Python
-Database: MySQL
-SQL Queries: For data manipulation and retrieval
+1.Programming Language: Python
+2.Database: MySQL
+3.SQL Queries: For data manipulation and retrieval
+
 How It Works
 Books Management:
 Add new books with details like title, author, genre, and availability.
