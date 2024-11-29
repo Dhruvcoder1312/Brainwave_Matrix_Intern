@@ -59,3 +59,50 @@ Use the menu to perform operations.
 Challenges Solved
 Streamlined library operations using a simple interface.
 Optimized SQL queries for real-time updates and seamless transactions.
+
+
+
+
+2.Movie Rental System
+
+Overview
+
+1.The Movie Rental System is a MySQL database project designed to manage movie rentals, customers, and transactions effectively.
+
+2.It provides functionalities for tracking movie availability, handling customer orders, and calculating fines for delayed returns.
+
+Key Features
+
+--Comprehensive Database Design: Includes tables for customers, movies, rentals, and payments.
+
+--Rental Management: Allows users to rent and return movies, updating availability dynamically.
+
+--Delayed Return Fines: Automatically calculates fines for returns exceeding a 10-day grace period, based on ₹1/day.
+
+--SQL Optimization: Efficient queries for managing large datasets and ensuring quick data retrieval.
+
+--Detailed Transaction Tracking: Tracks due dates, return dates, and associated fines for transparency.
+
+Technologies Used
+
+Database Management System: MySQL
+
+SQL Queries: To handle operations like data insertion, updates, and retrieval.
+
+Database Structure
+
+Customers Table:
+
+Stores customer information like name, email, and phone number.
+
+Movies Table:
+
+Tracks movies with details like title, genre, year, and availability.
+
+Rentals Table:
+
+Records rental transactions, including issue and return dates.
+
+Payments Table:
+
+Logs fines and payment status for delayed returns
