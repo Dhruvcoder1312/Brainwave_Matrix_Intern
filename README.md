@@ -20,22 +20,37 @@ Key Features
 --User-Friendly Menu: Intuitive menu-driven system for administrators to perform all library operations.
 
 Technologies Used
+
 1.Programming Language: Python
+
 2.Database: MySQL
+
 3.SQL Queries: For data manipulation and retrieval
 
-How It Works
+-----How It Works------
+
 Books Management:
-Add new books with details like title, author, genre, and availability.
-Update or view book records as required.
+
+1.Add new books with details like title, author, genre, and availability.
+
+2.Update or view book records as required.
+
 Members Management:
-Register new members with their details.
-View all registered members.
+
+1.Register new members with their details.
+
+2.View all registered members.
+
 Borrowing and Returning Books:
-Record transactions for borrowing books.
-Update records upon return and calculate fines for delayed returns.
+
+1.Record transactions for borrowing books.
+
+2.Update records upon return and calculate fines for delayed returns.
+
 Fines Calculation:
-Overdue fines are calculated at ₹2/day after the due date.
+
+1.Overdue fines are calculated at ₹2/day after the due date.
+
 Setup Instructions
 Install Python and MySQL on your system.
 Create a MySQL database using the provided schema.
