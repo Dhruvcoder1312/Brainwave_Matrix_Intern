@@ -1,7 +1,9 @@
 # Brainwave_Matrix_Intern
 
 1. Library Management System
+   
 Overview
+
 The Library Management System is a Python-based project that integrates with a MySQL database to efficiently manage library operations. It allows administrators to handle books, members, borrowing transactions, and fines. The system provides a streamlined solution for tracking book availability, managing member records, and handling overdue penalties.
 
 Key Features
