@@ -63,6 +63,14 @@ Optimized SQL queries for real-time updates and seamless transactions.
 
 
 
+
+
+
+
+
+
+
+
 2.Movie Rental System
 
 Overview
